@@ -92,7 +92,9 @@ As a Full Stack Engineer on this project, my contributions spanned across both t
 On the back-end, I architected an optimized NoSQL database structure to ensure efficient storage, retrieval, editing, and management of user information and exercise logs. In order to facilitate robust communication between the database and the user interface, I implemented a suite of helper functions and API calls. These components served as the backbone for all interactions, providing a seamless data flow and ensuring data integrity throughout the application.
 
 <img src="https://github.com/boney171/Fitness-Tracker-Mobile-App/assets/97133672/fb37ceb3-94ff-4aa6-9b03-5138da52c413" width="500">
+
 <img src="https://github.com/boney171/Fitness-Tracker-Mobile-App/assets/97133672/5a026937-6da6-4c7e-961c-5d3eb0d9aa18" width="500" height="270">
+
 For the front-end, I leveraged my UI/UX design skills to construct an intuitive and visually pleasing calendar screen, contributing significantly to the overall user experience. Additionally, I engineered two critical modals: an 'Insert Exercise Logs' modal and a 'View/Edit Exercise Logs' modal. These features were designed to facilitate seamless user interactions, enabling them to easily log new exercises and review or modify previous ones based on specific dates.
 
 ## Calendar Screen
